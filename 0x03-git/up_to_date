@@ -1,1 +1,5 @@
 git status
+git fetch --all
+git add .
+git commit -m ''
+git push origin master
